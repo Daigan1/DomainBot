@@ -1,0 +1,22 @@
+{
+  "name": "domaincheckerpublic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "12.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "public-ip": "^4.0.1",
+    "xml2js": "^0.4.23"
+  }
+}
